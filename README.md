@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://github.com/K0nstant1nS/K0nstant1nS/assets/107422170/32067378-b134-4e01-9272-7693fc145f1a) - Родидлся
+Кодил
+Помер
+
