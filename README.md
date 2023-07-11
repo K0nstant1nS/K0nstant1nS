@@ -9,13 +9,14 @@
 <h4><img src="./src/images/icons8-unchecked-checkbox-48.png" align="center" height="18px" /> - Помер</h4>
 <hr style="border-bottom:1px solid gray">
 <div align="center">
-<img height="32px" src="./src/images/python.svg"/>
-<img height="32px" style="padding: 20px" src="./src/images/cplusplus.svg"/>
-<img height="32px" style="padding: 20px" src="./src/images/csharp.svg"/>
-<img height="32px" style="padding: 20px" src="./src/images/kotlin.svg"/>
-<img height="32px" style="padding: 20px" src="./src/images/php.svg"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/php" />
 </div>
-<p align="center"><img src="./src/images/icons8-arrow-down-90.png"/></p>
+</br>
+<p align="center"><img src="./src/images/icons8-arrow-96.png"/></p>
 <h3 align="center">Ни одним из этих языков не владею, просто красивые иконки. Список может пополняться</h3>
 <hr style="border-bottom:1px solid gray">
 
