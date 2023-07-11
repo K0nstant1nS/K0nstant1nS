@@ -8,7 +8,7 @@
 <h4><img src="./src/images/icons8-loading.gif" align="center" height="18px" /> - Программировал</h4>
 <h4><img src="./src/images/icons8-unchecked-checkbox-48.png" align="center" height="18px" /> - Помер</h4>
 <hr style="border-bottom:1px solid gray">
-<div style="display:flex; justify-content:space-between">
+<div align="center" gap="20px">
 <img height="32px" src="./src/images/python.svg"/>
 <img height="32px" src="./src/images/cplusplus.svg"/>
 <img height="32px" src="./src/images/csharp.svg"/>
