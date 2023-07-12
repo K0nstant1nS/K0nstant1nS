@@ -35,9 +35,9 @@
 </div>
 <hr style="border-bottom:1px solid gray">
 
-:dollar: Готов работать за деньги 
-:hamburger: Да и за еду 
-:yen: Да и за социальный рейтинг 
+:dollar: Готов работать за деньги <br/>
+:hamburger: Да и за еду <br/>
+:yen: Да и за социальный рейтинг <br/>
 :bulb: Да и за идею :relieved:
 
 
