@@ -8,7 +8,7 @@
 <h4><img src="./src/images/icons8-loading.gif" align="center" height="18px" /> - Программировал</h4>
 <h4><img src="./src/images/icons8-unchecked-checkbox-48.png" align="center" height="18px" /> - Помер</h4>
 <hr style="border-bottom:1px solid gray">
-<div>
+<div align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
@@ -16,8 +16,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
 </div>
 </br>
-<img src="./src/images/icons8-arrow-up-96.png"/>
-<h3 style="display: inline-block">Ни одним из этих языков не владею, просто красивые иконки. Список может пополняться</h3>
+<p align="center"><img src="./src/images/icons8-arrow-96.png"/></p>
+<h3 align="center">Ни одним из этих языков не владею, просто красивые иконки. Список может пополняться</h3>
 <hr style="border-bottom:1px solid gray">
 
 <div align="center">
