@@ -4,7 +4,7 @@
 
 <img align="center" src="./src/images/3AyY.gif" width="100%">
 
-<h4><img src="./src/images/icons8-checkbox-30.png" align="center" height="18px" /> - Родился</h4>
+<h4><img src="./src/images/pngegg.png" align="center" height="18px" /> - Родился</h4>
 <h4><img src="./src/images/icons8-loading.gif" align="center" height="18px" /> - Программировал</h4>
 <h4><img src="./src/images/icons8-unchecked-checkbox-48.png" align="center" height="18px" /> - Помер</h4>
 <hr style="border-bottom:1px solid gray">
