@@ -16,9 +16,30 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
 </div>
 </br>
-<p align="center"><img src="./src/images/icons8-arrow-96.png"/></p>
+<p align="center"><img src="./src/images/icons8-arrow-96-up.png"/></p>
 <h3 align="center">Ни одним из этих языков не владею, просто красивые иконки. Список может пополняться</h3>
 <hr style="border-bottom:1px solid gray">
+<h3 align="center">А вот с этим уже можно поработать</h3>
+<p align="center"><img src="./src/images/icons8-arrow-96-down.png"/></p>
+</br>
+<div align="center">
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+</div>
+<hr style="border-bottom:1px solid gray">
+
+:dollar: Готов работать за деньги 
+:hamburger: Да и за еду 
+:yen: Да и за социальный рейтинг 
+:bulb: Да и за идею :relieved:
+
 
 <div align="center">
 
