@@ -1,6 +1,6 @@
 <h1 align="center">Зовите меня Константин
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Несколько лет назад – когда именно, неважно – я обнаружил JS</h3>
+<h3 align="center">Несколько лет назад – когда именно, неважно – я начал ~~ш~~кодить</h3>
 
 <img align="center" src="./src/images/3AyY.gif" width="100%">
 
