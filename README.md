@@ -8,9 +8,9 @@
 :curry: Фанатею от кулинарии</br>
 :trollface: Просто получаю удовольствие от жизни</br>
 :dollar: Готов работать за деньги(да)... :hamburger: Да и за еду... :yen: Да и за социальный рейтинг... :bulb: Да и за идею :relieved:. Впишусь в любой фановый проект</br>
-Пишите по делу или если просто скучно: 
+Пишите по делу или если просто скучно:</br>
 <a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
-<a href="K1kollov@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" /></a>
+
 </br>
 <h3>Текущий жизненный статус:</h3>
 <h4><img src="./src/images/pngegg.png" align="center" height="18px" /> - Родился</h4>
