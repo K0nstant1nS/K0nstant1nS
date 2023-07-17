@@ -15,8 +15,8 @@
 <h4><img src="./src/images/icons8-unchecked-checkbox-48.png" align="center" height="18px" /> - Помер</h4></br>
 <h3>Пишите по делу или если просто скучно:</h3>
 <a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
-<h2>Мой высокотехнологичный технологический стек технологий<h2>
-<p>Освоено: </>
+<h2>Мой высокотехнологичный технологический стек технологий</h2>
+<h3>Освоено: </h3>
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -31,7 +31,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 </div>
 </br>
-<p>Осваивается в данный момент:</p>
+<h3>Осваивается в данный момент:</h3>
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
 <hr style="border-bottom:1px solid gray">
