@@ -4,9 +4,9 @@
 
 <div align="center"><img src="./src/images/3AyY.gif" width="80%"></div>
 <h2>О себе, любимом:</h2>
-:runner: Занимаюсь спортом</br>
-:curry: Фанатею от кулинарии</br>
-:trollface: Просто получаю удовольствие от жизни</br>
+<h4>:runner: Занимаюсь спортом
+<h4>:curry: Фанатею от кулинарии
+<h4>:trollface: Просто получаю удовольствие от жизни</h4>
 :dollar: Готов работать за деньги(да)... :hamburger: Да и за еду... :yen: Да и за социальный рейтинг... :bulb: Да и за идею :relieved:. Впишусь в любой фановый проект</br>
 <h4>Пишите по делу или если просто скучно:</h4>
 <a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
