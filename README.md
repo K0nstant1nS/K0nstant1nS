@@ -14,7 +14,7 @@
 <h2>Мой высокотехнологичный технологический стек технологий<h2>
 <p>Освоено: </>
 <div>
-<figure><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /></figure>
+<figure><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /><figcaption>HTML</figcaption></figure>
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
