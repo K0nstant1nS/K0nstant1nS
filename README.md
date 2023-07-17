@@ -8,9 +8,8 @@
 :curry: Фанатею от кулинарии</br>
 :trollface: Просто получаю удовольствие от жизни</br>
 :dollar: Готов работать за деньги(да)... :hamburger: Да и за еду... :yen: Да и за социальный рейтинг... :bulb: Да и за идею :relieved:. Впишусь в любой фановый проект</br>
-Пишите по делу или если просто скучно:</br>
+<h4>Пишите по делу или если просто скучно:</h4></br>
 <a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
-
 </br>
 <h3>Текущий жизненный статус:</h3>
 <h4><img src="./src/images/pngegg.png" align="center" height="18px" /> - Родился</h4>
