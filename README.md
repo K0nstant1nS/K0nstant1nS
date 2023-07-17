@@ -3,11 +3,10 @@
 <h3 align="center">Некоторое время назад – когда именно, неважно – я начал кодить</h3>
 
 <div align="center"><img src="./src/images/3AyY.gif" width="80%"></div>
-<h2>О себе, любимом </h2>
-<h4>:dollar: Готов работать за деньги(да)</h4>
-<h4>:hamburger: Да и за еду</h4>
-<h4>:yen: Да и за социальный рейтинг</h4>
-<h4>:bulb: Да и за идею :relieved:</h4>
+<h2>О себе, любимом:</h2>
+
+:dollar: Готов работать за деньги(да)... :hamburger: Да и за еду... :yen: Да и за социальный рейтинг... :bulb: Да и за идею :relieved:
+</br>
 <h3>Текущий жизненный статус:</h3>
 <h4><img src="./src/images/pngegg.png" align="center" height="18px" /> - Родился</h4>
 <h4><img src="./src/images/icons8-loading.gif" align="center" height="18px" /> - Программировал</h4>
