@@ -5,7 +5,7 @@
 <div align="center"><img src="./src/images/3AyY.gif" width="80%"></div>
 <h2>О себе:</h2>
 :pill: Плотно сижу на JS с 09.07.2022</br>
-:white_check_mark: Дней без пропуска коммитов: 15</br>
+:white_check_mark: Дней без пропуска коммитов: 16</br>
 :runner: Занимаюсь спортом</br>
 :curry: Фанатею по кулинарии</br>
 :sun_with_face: Просто получаю удовольствие от жизни</br>
