@@ -42,6 +42,7 @@
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
 </div>
 <hr style="border-bottom:1px solid gray">
 <div align="center">
