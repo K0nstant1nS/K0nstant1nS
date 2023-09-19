@@ -42,6 +42,7 @@
 <h3>Осваивается в данный момент:</h3>
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 </div>
 <hr style="border-bottom:1px solid gray">
 <div align="center">
