@@ -4,7 +4,7 @@
 
 <div align="center"><img src="./src/images/3AyY.gif" width="80%"></div>
 <h2>О себе:</h2>
-:white_check_mark: Дней без пропуска коммитов: 2</br>
+:white_check_mark: Дней без пропуска коммитов: 3</br>
 :runner: Занимаюсь спортом</br>
 :curry: Фанатею от кулинарии</br>
 :sun_with_face: Просто (не?) получаю удовольствие от жизни</br>
