@@ -20,7 +20,6 @@
 <a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
 <a href="mailto:K1kollov@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" /></a>
 <h2>Мой стек технологий</h2>
-<h3>Освоено: </h3>
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -35,11 +34,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
-</div>
-</br>
-<h3>Осваивается в данный момент:</h3>
-<div>
-А тут не густо =)
 </div>
 <hr style="border-bottom:1px solid gray">
 <div align="center">
