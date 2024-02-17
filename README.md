@@ -19,7 +19,7 @@
 </ul>
 
 <h3>Мои контакты:</h3>
-<a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
+<a href="https://t.me/Obv1ouslyMe"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>&nbsp&nbsp
 <a href="mailto:K1kollov@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" /></a>
 <h2>Мой стек технологий</h2>
 <div>
