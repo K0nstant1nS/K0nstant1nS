@@ -40,8 +40,7 @@
 <hr style="border-bottom:1px solid gray">
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0nstant1nS&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0nstant1nS&theme=rose_pine)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K0nstant1nS)](https://git.io/streak-stats)
 
 </div>
 
