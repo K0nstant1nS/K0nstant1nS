@@ -24,21 +24,21 @@
 <h2>Мой стек технологий</h2>
 <div>
 <h3>Основное:</h3>
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp&nbsp
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
 <h3>Щепотка бэка:</h3>
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/blue" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/blue" />&nbsp&nbsp
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp&nbsp
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <h3>Неуверенное владение:</h3>
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/blue" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/blue" />&nbsp&nbsp
 <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
 <h3>Щепотка бэка:</h3>
 </div>
