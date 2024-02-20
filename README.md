@@ -40,7 +40,6 @@
 <h3>Неуверенное владение:</h3>
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/blue" />&nbsp&nbsp
 <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
-<h3>Щепотка бэка:</h3>
 </div>
 <hr style="border-bottom:1px solid gray">
 <div align="center">
