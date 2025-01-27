@@ -43,7 +43,7 @@
 <hr style="border-bottom:1px solid gray">
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K0nstant1nS)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=K0nstant1nS)](https://git.io/streak-stats)
 
 </div>
 
