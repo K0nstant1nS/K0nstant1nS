@@ -1,6 +1,6 @@
 <h1 align="center">Зовите меня Константин 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Некоторое время назад – когда именно, неважно – я начал кодить</h3> 
+<h3 align="center">Некоторое время назад – когда именно, неважно – я начал кодить </h3> 
 
 <div align="center"><img src="./src/images/3AyY.gif" width="80%"></div>
 <h2>О себе: </h2>
